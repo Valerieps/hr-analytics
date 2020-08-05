@@ -1,0 +1,40 @@
+Descrição das colunas
+
+* Rising_Star: Indicates the level of promise or promote-ability the employee has.
+* Will_Relocate: Is the employee willing to relocate?
+* Critical: Is the employee critical to the organization?
+* Trending Perf: How is the employee trending in performance this year?
+* Talent_Level: This field represents a subjective level of management's view of the employee.
+* Validated_Talent_Level: This field senior managements view of what the manager stated.
+* Percent_Remote: The percentage of the employee's work that is done remotely.
+* last_evaluation: The score on the last employee evaluation.
+* number_project: The number of projects the employee works on throughout the year.
+* average_montly_hours: The average number of hours the employee works.
+* time_spend_company: Years of service.
+* Work_accident: The number of accidents the employee is involved in.
+* CSR Factor: Ignore
+* promotion_last_5years: Did the employee get promoted in last 5 years?
+* sales: Ignore
+* salary: Relative pay grade (low, medium, high) by role.
+* Gender: Gender or how the person identifies.
+* LinkedIn_Hits: The number of times employee visits LinkedIn networking sites. (time frame?)
+* Emp_Identity: How the employee identifies themselves with the company.
+* Emp_Role: How the employee identifies themselves with the importance of their role in the company.
+* Emp_Position: How the employee identifies themselves with the importance of their position in the company.
+* Emp_Title: How the employee feels about their title.
+* Women_Leave: Women who left the company. (processed with the DS data?)
+* Men_Leave: Men who left the company.
+
+* left_Company: Did the employee leave the company
+
+* Sensor_StepCount: Sentient devices are used to capture certain employee activities. In this case number of steps. (inside the work?)
+* Sensor_Heartbeat(Average/Min): Sentient devices are used to capture certain employee activities. In this case heartbeat. (resting? standig?)
+* Sensor_Proximity(1-highest/10-lowest): Sentient devices are used to capture certain employee activities. In this case how close they are to their company laptop.
+
+
+* Emp_Work_Status{2-5}: One indicator from a survey that was sent to employees by a third party. Status represents how strongly employee feels about their status level in the organization.
+* EMP_Sat_OnPrem_{1-5}: One indicator from a survey that was sent to employees by a third party. On prem (On premise) means that the employee maintains a high percentage of work on the corporation’s physical work locations.
+* EMP_Sat_Remote_{1-5}: One indicator from a survey that was sent to employees by a third party. Remote (distance employee) means that the employee does a high percentage of work away from the corporation’s physical work locations.
+* EMP_Engagement_{1-5}: One indicator from a survey that was sent to employees by a third party. Engagement represents the employee's feeling about how they feel about being engaged in company activities.
+* Emp_Competitive_{1-5}: One indicator from a survey that was sent to employees by a third party. How employee feels about the competitive nature of work in the organization.
+* Emp_Collaborative_{1-5}: One indicator from a survey that was sent to employees by a third party. How employee feels about the collaborative nature of work in the organization.
